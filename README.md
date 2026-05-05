@@ -15,3 +15,11 @@ name: Udul Pallewatta
 role: Full Stack Developer
 focus: Fintech Systems & Web Applications
 location: Sri Lanka 🇱🇰
+
++ I turn complex financial data into clean dashboards 📊
++ I debug faster at night 🌙 than during the day ☀️
++ Coffee ☕ + Code 💻 = Production-ready solutions 🚀
++ I enjoy optimizing systems more than building from scratch ⚙️
++ I can spend hours perfecting UI alignment 🎯
++ Breaking bugs feels better than winning games 🎮
++ Clean code > Clever code 🧠
