@@ -3,7 +3,7 @@
 <h3 align="center">🚀 Full-Stack Developer | Fintech Builder</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=550&lines=Full+Stack+Engineer;Fintech+Developer;React+%7C+Node+%7C+Java;Always+Learning+🚀" />
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/path-to-image.png" />
 </p>
 
 ---
