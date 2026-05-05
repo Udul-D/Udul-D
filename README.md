@@ -43,30 +43,11 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
-</p>
-
----
-
 ## 🔥 Contribution Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
 </p>
-
----
-
-## 🚀 Featured Projects
-
-| 🚀 Project | 📄 Description | ⚙️ Tech |
-|----------|--------------|--------|
-| 🔹 POS Reconciliation | Financial reconciliation system | React, Node |
-| 🔹 Credit Card Portal | Multi-step workflow system | React |
-| 🔹 Knowledge Hub | CRM module | Java, SQL |
 
 ---
 
@@ -86,14 +67,6 @@
   <img src="https://img.shields.io/badge/🐞_Bug_Fixer-Enjoys_Debugging-007CF0?style=for-the-badge" />
   <br/>
   <img src="https://img.shields.io/badge/🚀_Goal-Build_Impactful_Systems-00F7FF?style=for-the-badge" />
-</p>
-
----
-
-## 🧩 Dev Philosophy
-
-<p align="center">
-  <img src="https://img.shields.io/badge/"Build_Simple._Scale_Smart._Optimize_Always."-000?style=for-the-badge&color=00F7FF" />
 </p>
 
 ---
