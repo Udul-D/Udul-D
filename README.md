@@ -3,7 +3,7 @@
 <h3 align="center">🚀 Full-Stack Developer | Fintech Builder</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/path-to-image.png" />
+  <img src="https://raw.githubusercontent.com/Udul-D/portfolio/main/assets/profile.png" width="300"/>
 </p>
 
 ---
