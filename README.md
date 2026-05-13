@@ -50,21 +50,55 @@
 
 ---
 
-## ⚡ Fun Facts
+## ⚡ Fun Facts // SYSTEM ONLINE
 
-<table align="center">
-<tr>
-<td align="center">🌙<br/>Night Coder</td>
-<td align="center">☕<br/>Coffee Driven</td>
-<td align="center">🧠<br/>Problem Solver</td>
-</tr>
+<div align="center">
 
-<tr>
-<td align="center">🎯<br/>UI Focused</td>
-<td align="center">🚀<br/>Tech Explorer</td>
-<td align="center">🐞<br/>Bug Hunter</td>
-</tr>
-</table>
+<img src="https://img.shields.io/badge/STATUS-ONLINE-00F7FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/DEVELOPER-MODE_ACTIVE-007CF0?style=for-the-badge" />
+
+</div>
+
+---
+
+### 🧬 Core Traits
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🧠-Logical_Thinker-00F7FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🎯-Detail_Oriented-007CF0?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/⚡-Fast_Learner-00F7FF?style=for-the-badge" />
+</p>
+
+---
+
+### 🌌 Developer Mode
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🌙-Night_Coder-007CF0?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/☕-Coffee_Fueled-00F7FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🐞-Bug_Hunter-007CF0?style=for-the-badge" />
+</p>
+
+---
+
+### 🚀 System Behavior
+
+<p align="center">
+  <img src="https://img.shields.io/badge/⚙️-Optimizes_Everything-00F7FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🎨-UI_Perfectionist-007CF0?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🚀-Always_Building-00F7FF?style=for-the-badge" />
+</p>
+
+---
+
+### 🖥️ Terminal Output
+
+```bash id="k9v3lp"
+$ status: coding...
+$ mood: focused
+$ energy: infinite
+$ bugs: under control
+$ mission: build impactful systems 🚀
 
 ---
 
