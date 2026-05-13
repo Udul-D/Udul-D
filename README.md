@@ -1,10 +1,6 @@
 <!-- HEADER -->
 <h1 align="center">👋 Hi, I'm Udul Pallewatta</h1>
-<h3 align="center">🚀 Full-Stack Developer | Fintech Builder</h3>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Udul-D/portfolio/main/assets/profile.png" width="300"/>
-</p>
+<h3 align="center">🚀 Full-Stack Developer | Continuous Learner</h3>
 
 ---
 
@@ -88,17 +84,6 @@
   <img src="https://img.shields.io/badge/🎨-UI_Perfectionist-007CF0?style=for-the-badge" />
   <img src="https://img.shields.io/badge/🚀-Always_Building-00F7FF?style=for-the-badge" />
 </p>
-
----
-
-### 🖥️ Terminal Output
-
-```bash id="k9v3lp"
-$ status: coding...
-$ mood: focused
-$ energy: infinite
-$ bugs: under control
-$ mission: build impactful systems 🚀
 
 ---
 
