@@ -47,7 +47,7 @@
 
 ---
 
-## ⚡ Fun Facts // SYSTEM ONLINE
+## ⚡ Fun Facts
 
 <div align="center">
 
