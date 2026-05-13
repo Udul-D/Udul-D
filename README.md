@@ -12,10 +12,10 @@
 
 <img align="right" width="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-💻 Crafting modern digital experiences with clean and scalable code  
-⚡ Building high-performance applications with focus on architecture & usability  
-🛠️ Exploring full-stack technologies, APIs, and system optimization  
-🚀 Turning ideas into powerful and impactful software solutions   
+- 💻 Crafting modern digital experiences with clean and scalable code  
+- ⚡ Building high-performance applications with focus on architecture & usability  
+- 🛠️ Exploring full-stack technologies, APIs, and system optimization  
+- 🚀 Turning ideas into powerful and impactful software solutions   
 
 ---
 
@@ -50,23 +50,21 @@
 
 ---
 
-## ⚡ Fun Facts (Icon Style)
+## ⚡ Fun Facts
 
-<p>
-  <img src="https://img.shields.io/badge/🧠_Logic-Loves_Complex_Problems-00F7FF?style=for-the-badge" />
-  <br/>
-  <img src="https://img.shields.io/badge/🌙_Night_Mode-More_Productive-007CF0?style=for-the-badge" />
-  <br/>
-  <img src="https://img.shields.io/badge/☕_Coffee-Fuels_Code-00F7FF?style=for-the-badge" />
-  <br/>
-  <img src="https://img.shields.io/badge/⚙️_Optimization-Over_Everything-007CF0?style=for-the-badge" />
-  <br/>
-  <img src="https://img.shields.io/badge/🎯_Pixel_Perfect-UI_Obsessed-00F7FF?style=for-the-badge" />
-  <br/>
-  <img src="https://img.shields.io/badge/🐞_Bug_Fixer-Enjoys_Debugging-007CF0?style=for-the-badge" />
-  <br/>
-  <img src="https://img.shields.io/badge/🚀_Goal-Build_Impactful_Systems-00F7FF?style=for-the-badge" />
-</p>
+<table align="center">
+<tr>
+<td align="center">🌙<br/>Night Coder</td>
+<td align="center">☕<br/>Coffee Driven</td>
+<td align="center">🧠<br/>Problem Solver</td>
+</tr>
+
+<tr>
+<td align="center">🎯<br/>UI Focused</td>
+<td align="center">🚀<br/>Tech Explorer</td>
+<td align="center">🐞<br/>Bug Hunter</td>
+</tr>
+</table>
 
 ---
 
