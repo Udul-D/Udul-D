@@ -6,7 +6,7 @@
 
 ## 🧠 About Me
 
-<img align="right" width="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" width="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 - 💻 Crafting modern digital experiences with clean and scalable code  
 - ⚡ Building high-performance applications with focus on architecture & usability  
