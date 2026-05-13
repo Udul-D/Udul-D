@@ -28,7 +28,7 @@
 
 ### 🔧 Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,php" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,php,python" />
 </p>
 
 ### 🗄️ Database
@@ -40,7 +40,6 @@
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,npm,postman,figma,vscode" />
 </p>
-
 ---
 
 ## 🔥 Contribution Streak
