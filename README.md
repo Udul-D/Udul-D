@@ -45,7 +45,7 @@
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=Udul-D&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
