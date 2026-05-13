@@ -12,10 +12,10 @@
 
 <img align="right" width="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-- 💻 Building modern web applications  
-- ⚡ Focused on performance & clean architecture  
-- 📊 Working with financial & reconciliation systems  
-- 🚀 Passionate about solving real-world problems  
+💻 Crafting modern digital experiences with clean and scalable code  
+⚡ Building high-performance applications with focus on architecture & usability  
+🛠️ Exploring full-stack technologies, APIs, and system optimization  
+🚀 Turning ideas into powerful and impactful software solutions   
 
 ---
 
